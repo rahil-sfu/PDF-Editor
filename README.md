@@ -21,7 +21,7 @@ A simple PDF reader and editor application built with React.
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/pdf-reader-editor.git`
+1. Clone the repository: `git clone https://github.com/rahil-sfu/PDF-Editor.git`
 2. Install dependencies: `npm install` or `yarn install`
 3. Start the application: `npm start` or `yarn start`
 
