@@ -4,8 +4,7 @@ A simple PDF reader and editor application built with React.
 
 ## Features
 
-- View and read PDF files
-- Edit PDF files (coming soon)
+- Edit PDF files
 
 ## Screenshots
 
